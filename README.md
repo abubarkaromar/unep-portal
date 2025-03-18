@@ -18,7 +18,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-org/unep-portal.git
+git clone https://github.com/abubarkaromar/unep-portal.git
 cd unep-portal
 ```
 
